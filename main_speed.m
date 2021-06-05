@@ -85,7 +85,7 @@ end
 
 %% animation
 figure(5)
-for i=1:100:it
+for i=1:500:it
     if strcmpi(get(gcf,'CurrentCharacter'),'q')
         break
     end

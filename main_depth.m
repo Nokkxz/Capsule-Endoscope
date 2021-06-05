@@ -132,7 +132,7 @@ end
 figure(5)
 
 % plot3(X_buff(:,1),X_buff(:,2),X_buff(:,3))
-for i=1:800:it
+for i=1:80:it
     if strcmpi(get(gcf,'CurrentCharacter'),'q')
         break
     end
