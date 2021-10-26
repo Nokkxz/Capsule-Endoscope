@@ -1,3 +1,4 @@
 # UUV-Capsule
 ### Introduction
-Depth/Speed control for a capsule-liked UUV based on PID/LQR
+Simulation of a Capsule-liked UUV based on its hydrodynamic model  
+Depth/Speed control for the Capsule based on PID/LQR
